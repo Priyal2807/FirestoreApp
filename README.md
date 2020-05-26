@@ -1,2 +1,2 @@
 app trying out firestore
-<img src="screenshotOfApp.jpg" alt="screenshotOfApp">
+<img src="screenshotOfApp.JPG" alt="screenshotOfApp">
