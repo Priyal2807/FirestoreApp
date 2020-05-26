@@ -1,2 +1,2 @@
-app trying out firestore
-<img src="screenshotOfApp.JPG" alt="screenshotOfApp" height="200" width="200">
+app trying out firestore\
+<img src="screenshotOfApp.JPG" alt="screenshotOfApp" height="400" width="400">
