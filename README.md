@@ -1,3 +1,3 @@
 using firestore in an app\
-this shows the first page of the app\
+This is an app that fetches data from firestore and brings it in the app to display it.\
 <img src="screenshotOfApp.JPG" alt="screenshotOfApp">
